@@ -1,5 +1,6 @@
 <h1 align="center">Hola! 👋, me llamo Gonzalo Jousse</h1>
 <h3 align="center">Soy un desarrollador Fullstack web Jr ademas de estudiante avanzado de Ing Electrica ⚡</h3>
+<h4 align="center">Actualmente me encuentro capacitandome para ser un mejor desarrolador y finalizar mis estudios como ingeniero, asi en un futuro poder unir estos dos grandes mundos.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
